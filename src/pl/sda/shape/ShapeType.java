@@ -1,7 +1,7 @@
 package pl.sda.shape;
 
 public enum ShapeType {
-    SQUARE("square"), CIRCLE("circle"), TRIANGLE("triangle");
+    SQUARE("square"), CIRCLE("circle"), TRIANGLE("triangle"), TRAPEZE("trapeze");
 
     private String name;
 
